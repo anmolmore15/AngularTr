@@ -1,0 +1,50 @@
+<div [style.color]="'red'">
+    <h1>Transflower</h1>
+</div>
+<div [ngStyle]="{color: 'white', 'background-color': 'darkblue'}">
+     <h2> Greenhouse Automation</h2>
+</div>
+
+<h2>Dynamic Style </h2>
+<div>
+    <input type="text" name="color" value="{{color}}" #colorinput>
+</div>
+ <div>
+    <input type="text" name="fontSize" value="{{fontSize}}" #fontinput>
+ </div>
+ <button (click)="apply(colorinput.value, fontinput.value)">Apply</button>
+<br/>
+<div>
+  <span [ngStyle]="{color: color}" [style.font-size.px]="fontSize">
+        Using Inter of Things (IOT)
+  </span>
+ </div>
+
+<h1>Clas Binding</h1>
+<div [ngClass]="{bordered: false}">This is never bordered</div>
+<div [ngClass]="{bordered: true}">This is always bordered</div>
+
+<div [className]="'blue'">css class using property syntax</div>
+<br/><br/>
+<input [(ngModel)]="color" />
+<button (click)="size = size + 1">+</button>
+<button (click)="size = size - 1">-</button>
+<div [ngStyle]="{'color': color, 'font-size': size + 'px'}">
+  Transflower Greenhouse Automation
+</div>
+
+<h2>ngClass</h2>
+<div [ngClass]="['bold-text', 'green']">array of classes</div>
+<div [ngClass]="'italic-text blue'">string of classes</div>
+<div [ngClass]="{'small-text': true, 'red': true}">object/map of classes</div>
+<br /><br/>
+<span [ngClass]="displayText">toggled with ngClass</span> 
+<br/>
+<button (click)="toggle()">Toggle</button>
+
+<div>
+    <ul *ngFor="let person of people">
+       <li [ngStyle]="{'color':getColor(person.country)}"> {{ person.name }} ({{ person.country }}) 
+       </li>
+     </ul>
+</div>

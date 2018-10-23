@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AngularJs Modules</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+       <div ng-app="simpleModule">
+               <div ng-controller="simpleController">
+                     <div>
+                           This is {{message}}
+                     </div>
+                     <div>{{"Amit" | filtername }}</div>
+               </div>
+       </div>     
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>
+        <script type="text/javascript">
+              var myModule = angular.module("simpleModule",[]);
+              myModule.controller("simpleController",["$scope",function($scope){
+                $scope.message = "Data from the controller.";
+              }]);
+
+              myModule.filter('filtername',function(){
+                     return function(name)
+                     {
+                         return 'Hello, ' + name + '!';
+                     }
+              });
+        </script>
+</body>
+</html>

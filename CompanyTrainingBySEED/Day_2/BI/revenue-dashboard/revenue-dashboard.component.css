@@ -1,0 +1,9 @@
+#wrapper {
+    display: flex;    
+    width:90%;
+    /*height:100px;
+    background-color:Gray;*/
+}
+#wrapper div {
+    flex-basis: 100%;
+}

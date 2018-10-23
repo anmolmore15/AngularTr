@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AngularJs Ex1</title>
+	<meta charset="UTF-8">
+</head>
+<body ng-app>
+       <div>
+       	     Enter No.1 <input type="number" ng-model="number1"><br>
+       	     Enter No.2 <input type="number" ng-model="number2">
+       	     <div>The multiplication is {{number1*number2}}</div>
+       	     <div>The multiplication is <span ng-bind="number1*number2"></span></div>
+       </div>
+
+       <div ng-init="firstName='John'; lastName='Doe'">
+                  {{firstName}}
+                  {{lastName}}   	
+       </div>
+       
+       <div ng-init="number1=10;number2=20">
+              The ans is: <span ng-bind="number1+number2"></span>      	
+       </div>
+        
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>
+</body>
+</html>

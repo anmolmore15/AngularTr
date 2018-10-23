@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AngularJs understading controllers</title>
+	<meta charset="UTF-8">
+</head>
+<body ng-app="myApp">
+       
+         <div ng-controller="simpleController">
+                  Enter num1: <input type="number" ng-model="num1" /><br>
+                  Enter num2: <input type="number" ng-model="num2" /><br>
+
+                   <div>The result is: {{result}}</div>
+
+                  <input type="button" value="Addition" ng-click="addition()" />&nbsp;
+                  <input type="button" value="Substracttion" ng-click="substraction()" />&nbsp;
+                  <input type="button" value="Multipplication" ng-click="multiplication()" />&nbsp;
+                  <input type="button" value="Square" ng-click="square()" />&nbsp;
+                  <input type="button" value="Cube" ng-click="cube()" />
+         </div>      
+ 
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>     
+        <script src="com/app.js"></script>
+        
+        <script src="com/controller/simpleController.js"></script>
+        <script src="com/services/MathService.js"></script>
+        <script src="com/services/CalcService.js"></script>
+</body>
+</html>

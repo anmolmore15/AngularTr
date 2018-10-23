@@ -1,0 +1,21 @@
+<h3>Transflower Farms Revenue</h3>
+
+<div id="wrapper" >
+  <div id="one"> 
+          <revenue-bar-chart [data]="salesData" 
+            [width]="500" 
+            [height]="500" 
+            [colors]="['blue']" 
+            [title]="'Monthly Yiled 2016-2017'">
+          </revenue-bar-chart>
+  </div>
+
+  <div id="three">
+        <revenue-pie-chart [data]="vegetableData" 
+            [width]="200" 
+            [height]="200" 
+            [colors]="colors2" 
+            [title]="'Vegetables'">
+        </revenue-pie-chart>
+  </div> 
+</div>

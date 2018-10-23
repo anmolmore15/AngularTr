@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AngularJs Modules</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+       <div ng-app="simpleModule">
+               <div ng-controller="simpleController">
+                     <div>
+                           This is {{message}}
+                     </div>
+                     <div>{{"Amit" | filtername }}</div>
+                     <div dummy></div>
+               </div>
+       </div>     
+
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>
+        <script type="text/javascript">
+        
+              var myModule = angular.module("simpleModule",[]);
+               
+               myModule.config(function(){
+                console.log("config block.");
+               });
+
+               myModule.run(function(){
+                console.log("run block.");
+               });
+
+
+              myModule.controller("simpleController",["$scope",function($scope){
+               console.log("controller created.");
+                $scope.message = "Data from the controller.";
+              }]);
+
+              myModule.directive("dummy",function(){
+                console.log('directive');
+                return {
+                  link: function(){
+                    console.log('directive link');
+                  }
+                }
+                });
+              
+
+              myModule.filter('filtername',function(){
+                console.log("filter created");
+                     return function(name)
+                     {
+                         return 'Hello, ' + name + '!';
+                     }
+              });
+
+        </script>
+</body>
+</html>

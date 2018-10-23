@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Service - constant</title>
+	<meta charset="UTF-8">
+</head>
+<body ng-app="myApp">
+       
+   <div ng-controller="MainController">
+        Client Id here : <input type="button" value="Get Client ID" ng-click="getClientId()">
+        <div ng-show="clientId"> The client id is: {{clientId}} </div>
+   </div>
+
+   <div ng-controller="DummyController">
+        Client Name here : <input type="button" value="Get Client Name" ng-click="getClientName()">
+        <div ng-show="clientName"> The client name is: {{clientName}} </div>
+     
+   </div>
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>     
+        <script src="com/app.js"></script>
+        
+        <script src="com/controller/MainController.js"></script>
+        <script src="com/controller/DummyController.js"></script>
+        <script src="com/Services/ClientNameConstant.js"></script>
+   
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AngularJs Ex1</title>
+	<meta charset="UTF-8">
+</head>
+<body ng-app>
+       <div ng-init="number1=10;number2=20">
+       	     Enter No.1 <input type="number" ng-model="number1"><br>
+       	     Enter No.2 <input type="number" ng-model="number2">
+
+       	     
+             <div>The addition of {{number1}} and {{number2}} is {{::number1+number2}}</div>
+       </div>
+
+       
+        
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>
+</body>
+</html>

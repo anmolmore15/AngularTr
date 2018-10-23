@@ -1,0 +1,124 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+timestamp - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134137&action=Download&authKey=!AASIH8RezaVZSBU
+
+test.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2133697&action=Download&authKey=!AASIH8RezaVZSBU
+
+app.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2133664&action=Download&authKey=!AASIH8RezaVZSBU
+
+.gitkeep - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2133665&action=Download&authKey=!AASIH8RezaVZSBU
+
+app.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2133772&action=Download&authKey=!AASIH8RezaVZSBU
+
+.gitkeep - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2133773&action=Download&authKey=!AASIH8RezaVZSBU
+
+counter.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134242&action=Download&authKey=!AASIH8RezaVZSBU
+
+productdetail.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134252&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-list.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134248&action=Download&authKey=!AASIH8RezaVZSBU
+
+counter.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134257&action=Download&authKey=!AASIH8RezaVZSBU
+
+login.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134261&action=Download&authKey=!AASIH8RezaVZSBU
+
+app.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134234&action=Download&authKey=!AASIH8RezaVZSBU
+
+.gitkeep - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134235&action=Download&authKey=!AASIH8RezaVZSBU
+
+revenue-pie-chart.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134391&action=Download&authKey=!AASIH8RezaVZSBU
+
+productdetail.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134394&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-list.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134388&action=Download&authKey=!AASIH8RezaVZSBU
+
+ellipse.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134398&action=Download&authKey=!AASIH8RezaVZSBU
+
+gdi.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134401&action=Download&authKey=!AASIH8RezaVZSBU
+
+line.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134406&action=Download&authKey=!AASIH8RezaVZSBU
+
+rect.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134410&action=Download&authKey=!AASIH8RezaVZSBU
+
+smiley.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134414&action=Download&authKey=!AASIH8RezaVZSBU
+
+counter.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134418&action=Download&authKey=!AASIH8RezaVZSBU
+
+styleclass-directive.component.spec.ts - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134349&action=Download&authKey=!AASIH8RezaVZSBU
+
+login.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134423&action=Download&authKey=!AASIH8RezaVZSBU
+
+change-password.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134426&action=Download&authKey=!AASIH8RezaVZSBU
+
+register.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134430&action=Download&authKey=!AASIH8RezaVZSBU
+
+sign-in.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134435&action=Download&authKey=!AASIH8RezaVZSBU
+
+git-http.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134440&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-http-crud.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134444&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-http-crudsvc.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134448&action=Download&authKey=!AASIH8RezaVZSBU
+
+account.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134452&action=Download&authKey=!AASIH8RezaVZSBU
+
+bank.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134457&action=Download&authKey=!AASIH8RezaVZSBU
+
+consumer1.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134493&action=Download&authKey=!AASIH8RezaVZSBU
+
+consumer2.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134497&action=Download&authKey=!AASIH8RezaVZSBU
+
+detail.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134501&action=Download&authKey=!AASIH8RezaVZSBU
+
+master.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134505&action=Download&authKey=!AASIH8RezaVZSBU
+
+simple-observable.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134460&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-abstract.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134464&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-abstract-event.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134468&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-custom-validator.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134471&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-validation.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134476&action=Download&authKey=!AASIH8RezaVZSBU
+
+sign-in.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134480&action=Download&authKey=!AASIH8RezaVZSBU
+
+barchart.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134509&action=Download&authKey=!AASIH8RezaVZSBU
+
+dashboard.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134513&action=Download&authKey=!AASIH8RezaVZSBU
+
+piechart.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134517&action=Download&authKey=!AASIH8RezaVZSBU
+
+comp1.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134521&action=Download&authKey=!AASIH8RezaVZSBU
+
+comp2.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134525&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-create.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134529&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-delete.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134533&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-detail.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134537&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-list.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134540&action=Download&authKey=!AASIH8RezaVZSBU
+
+product-update.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134545&action=Download&authKey=!AASIH8RezaVZSBU
+
+aboutus.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134548&action=Download&authKey=!AASIH8RezaVZSBU
+
+contact.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134552&action=Download&authKey=!AASIH8RezaVZSBU
+
+home.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134557&action=Download&authKey=!AASIH8RezaVZSBU
+
+pagenotfound.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134561&action=Download&authKey=!AASIH8RezaVZSBU
+
+protected.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134565&action=Download&authKey=!AASIH8RezaVZSBU
+
+route-container.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134485&action=Download&authKey=!AASIH8RezaVZSBU
+
+sign-in.component.css - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134488&action=Download&authKey=!AASIH8RezaVZSBU
+
+styleclass-directive.component.spec.ts - https://onedrive.live.com/?cid=4bb7092a5758f5dc&id=4BB7092A5758F5DC%2134369&action=Download&authKey=!AASIH8RezaVZSBU
+
+
+

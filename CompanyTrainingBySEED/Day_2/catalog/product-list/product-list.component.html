@@ -1,0 +1,6 @@
+<p>product-list works!</p>
+<div *ngIf="status">
+  <ol *ngFor="let item of list">
+    <li>{{item.title|uppercase}} | {{item.stocks}} | {{item.unitPrice|currency}} {{item.description}}</li>
+  </ol>
+</div>

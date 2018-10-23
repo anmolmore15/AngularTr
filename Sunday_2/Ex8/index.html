@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form validation in AngularJS</title>
+	<meta charset="UTF-8">
+    <style type="text/css">
+        table,td{
+            border: 1px solid;
+            border-collapse: collapse;
+        }
+        td
+        {
+            padding: 10px;
+        }
+        input.ng-valid
+        {
+            border: 1px solid green;
+        }
+        input.ng-invalid
+        {
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body ng-app="myApp">
+
+       <div ng-controller="MainController">
+             <form name="studForm" novalidate>
+                    <table>
+                        <tr>
+                            <td>
+                                 First Name
+                            </td>
+                            <td><input type="text" name="fName" ng-model="firstname" placeholder="Enter name...." required>
+                                <!-- <span ng-show="studForm.fName.$dirty && studForm.fName.$invalid">Please enter your name.</span> -->
+
+                                <span ng-show="studForm.fName.$error.required">First name required.</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                 Email
+                            </td>
+                            <td><input type="email" name="userEmail" ng-model="email" placeholder="Enter email...." required>
+                               
+
+                                <span ng-show="studForm.userEmail.$error.required">First name required.</span>
+                            </td>
+                        </tr>
+                         <tr>
+                            <td></td>
+                            <td><input type="button" name="btnSubmit" value="submit form" 
+                            ng-disabled="studForm.fName.$error.required || studForm.userEmail.$error.required ">                                                                                                        
+                            </td>
+                        </tr>
+                    </table>
+             </form>
+       </div>
+
+        <script type="text/javascript" src="libs/angular.min.js"></script>     
+        <script src="com/app.js"></script>      
+        <script src="com/controller/MainController.js"></script>
+         
+</body>
+</html>
